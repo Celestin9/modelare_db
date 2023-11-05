@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T13:29:44.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="QkwynG00JbbIjKlCVSYa" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T13:42:47.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="RyB0L2z3I8pI9tsbfLCy" version="22.0.8" type="github">
   <diagram name="Page-1" id="6aeg5bsSVXfJNw_j6cX9">
-    <mxGraphModel dx="2242" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1552" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,15 +48,6 @@
         </mxCell>
         <mxCell id="ROokGIwU-I5PkmGVCqzA-19" value="planse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ROokGIwU-I5PkmGVCqzA-20" value="respingeri" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ROokGIwU-I5PkmGVCqzA-21" value="completari" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="950" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ROokGIwU-I5PkmGVCqzA-22" value="contestatii" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_kvME6PJZ_PKbctjpxq-3" value="UAT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="680" y="140" width="120" height="60" as="geometry" />
@@ -255,6 +246,12 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="700" y="710" as="sourcePoint" />
             <mxPoint x="800" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t_kvME6PJZ_PKbctjpxq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="1039.9999999999998" as="sourcePoint" />
+            <mxPoint x="660" y="1039.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
